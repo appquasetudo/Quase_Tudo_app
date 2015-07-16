@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quase_Tudo_app</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exemplo_login">ExemploLogin</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Nome Completo</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTRAR</string>
+    <string name="btn_SignInFacebook">Login Facebook</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Clique aqui se você já é registrado.</string>
+    <string name="welcome">Bem vindo</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_gpluslogin">gpluslogin</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
